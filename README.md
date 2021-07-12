@@ -8,4 +8,4 @@
 
 #OpenCv and mediapipe should be installed to import cv2 and mediapipe libraries respectively.
 
-#For main volume control: osascript should be installed for mac users. For window users, pycaw should be installed (few code will lines will also be different, which is not shown in my project)
+#For main volume control: osascript should be installed for mac users. For window users, pycaw should be installed (few code will lines will also be different, which is not shown in my project). For better info for window users, take a look at a youtube video - "Advanced Computer Vision with Python -Full Course" from freeCodeCamp.org 
