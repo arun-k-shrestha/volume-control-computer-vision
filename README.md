@@ -7,3 +7,5 @@ I used ( pip3 install opencv-python ) for OpenCv to import cv2, (pip3 install me
 Volume Control is the main file, and Module is the secondary file with functions. 
 
 Few lines of code might not run on window. So, window users should take a look at a youtube video - "Advanced Computer Vision with Python -Full Course" from freeCodeCamp.org 
+
+If you run into trouble, please don't hesitate to send me a message. 
