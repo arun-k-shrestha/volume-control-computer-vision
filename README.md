@@ -40,6 +40,6 @@ Setup for Mac.
 
 ## Common Errors
 
-Few lines of code might not run on Windows. So, Windows users should look at a YouTube video - "Advanced Computer Vision with Python -Full Course" from freeCodeCamp.org 
+Few lines of code might not run on Windows. 
 
 If you run into trouble, please don't hesitate to send me a message.
