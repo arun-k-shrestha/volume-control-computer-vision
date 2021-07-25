@@ -7,11 +7,11 @@ Tutorial help: `freeCodeCamp.org`
 
 Clone this repository to your local machine: 
 
-`git clone ...`
+`git clone https://github.com/arun-k-shrestha/volume-control-computer-vision.git`
 
 ## Setup
 
-This project needs three important packages: OpenCv, Mediapipe, and osascript (for mac users)/ pycaw(for windows users)
+This project requires three important packages: OpenCv, Mediapipe, and osascript (for mac users)/ pycaw(for windows users)
 
 Setup for Mac.
 
