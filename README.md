@@ -16,17 +16,22 @@ This project requires three important packages: OpenCv, Mediapipe, and osascript
 Setup for Mac.
 
 1. Install pip3 for mac. Documentation for pip: https://pip.pypa.io/en/stable/getting-started/
+
 2. Install OpenCv through pip3:
    > Run `pip3 install opencv-python`
+
 3. Install Mediapipe:
    > Run `pip3 install mediapipe`
+
 4. Install Osascript:
    > Run `pip3 install osascript`
 
 ## Packages Information
 
 1. OpenCv: An open source library that provides a real-time optimized Computer Vision tools/algorithms and hardware. Documentation: https://docs.opencv.org/master/index.html
+
 2. Mediapipe: A cross-platform framework for building multimodal applied machine learning pipelines. This project uses the mediapipe's hand guesture detection. Documentation: https://github.com/google/mediapipe
+
 3. Osascript (Open Scripting Architecture Scripting Language): An architecture that allows you to run scripts from the command line (such as AppleScript or JavaScript).
 
 ## How it Works
