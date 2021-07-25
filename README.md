@@ -36,7 +36,7 @@ Setup for Mac.
 
 ## How it Works
 
-`VolumeControl.py` is the main file to run. `Module.py` contains helper function from opencv and mediapipe packages.
+`VolumeControl.py` is the main file to run. `Module.py` contains helper functions from opencv and mediapipe packages.
 
 ## Common Errors
 
