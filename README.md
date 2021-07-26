@@ -38,6 +38,8 @@ Setup for Mac.
 
 `VolumeControl.py` is the main file to run. `Module.py` contains helper functions from opencv and mediapipe packages.
 
+UI includes a window with camera image. Play something on your computer, changing the distance between your index finger and thumb changes the volume
+
 ## Common Errors
 
 Few lines of code might not run on Windows. 
