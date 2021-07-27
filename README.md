@@ -7,7 +7,7 @@ Tutorial help: `freeCodeCamp.org`
 
 Clone this repository to your local machine: 
 
-`git clone https://github.com/arun-k-shrestha/volume-control-computer-vision.git`
+   > Run `git clone https://github.com/arun-k-shrestha/volume-control-computer-vision.git`
 
 ## Setup
 
